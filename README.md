@@ -164,3 +164,5 @@ centroid가 update되는 방식을 사용하는 MiniBatchKMeans를 사용하였�
     - 클러스터링 기반
     
       ![joker](./readme/joker_clustering.JPG)
+      
+      ![스크린샷 2022-11-05 오후 12.31.02.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/057c8bcf-9c11-449f-847f-ea5e7c5f7643/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2022-11-05_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_12.31.02.png)
